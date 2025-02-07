@@ -173,3 +173,4 @@ cython_debug/
 # Our stuff
 /models/*.keras
 *.csv
+/data/*.csv

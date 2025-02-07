@@ -9,3 +9,6 @@ ipykernel
 keras
 tensorflow
 pydot
+torch
+transformers
+datasets
