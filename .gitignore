@@ -173,4 +173,6 @@ cython_debug/
 # Our stuff
 /models/*
 *.csv
-/data/*.csv
+/data/*
+constants.py
+models/*
