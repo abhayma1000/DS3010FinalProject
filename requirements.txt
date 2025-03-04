@@ -15,3 +15,5 @@ nltk
 pyarrow
 fastparquet
 dask
+vaderSentiment
+textblob
