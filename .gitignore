@@ -176,3 +176,6 @@ cython_debug/
 /data/*
 constants.py
 models/*
+outputs/*
+logs/*
+inputs/*

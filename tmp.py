@@ -10,3 +10,7 @@
 # print(f"{int(hours):02}:{int(minutes):02}:{seconds:05.2f}")
 
 print(11 * 60 / 6)
+
+import numpy as np
+
+print(np.log(0))

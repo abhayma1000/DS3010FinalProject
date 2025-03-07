@@ -17,3 +17,10 @@ fastparquet
 dask
 vaderSentiment
 textblob
+import_ipynb
+geopandas
+IPython
+nbformat
+nbconvert
+GPUtil
+torchmetrics
