@@ -22,6 +22,8 @@ SENDER_PASSWORD = config.EMAIL_PASSWORD  # Replace with your email password
 RECEIVER_EMAIL = "abhaymathur1000@gmail.com"  # Your email (or another recipient)
 
 def send_email(subject, body=""):
+    body += "\nAbhayUpdateEmail"
+
     """Sends an email notification"""
     msg = MIMEText(body)
     msg["Subject"] = subject

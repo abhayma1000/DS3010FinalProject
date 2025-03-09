@@ -24,3 +24,5 @@ nbformat
 nbconvert
 GPUtil
 torchmetrics
+shap
+datasets
